@@ -1,2 +1,4 @@
 "Test text"
 "Change from github"
+"Change from local to GitHub"
+
